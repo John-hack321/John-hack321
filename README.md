@@ -1,5 +1,37 @@
-# 💫 About Me:
-🔭 I’m currently working on cod wars a plartform that allows players of call of duty mobile to play ananymous matches and even wager money against each other<br>- 🌱 I’m currently learning at the university of nairobi as a seniour for my BSc Computer Science<br>- 👯 I’m looking to collaborate on ...<br>
+<h1>💫 About Me</h1>
+
+<p>Hey there! I'm <strong>John Okello</strong>, a full-stack engineer and aspiring entrepreneur based in Nairobi. I architect production-grade backends using <strong>Docker</strong>, <strong>PostgreSQL</strong>, and <strong>FastAPI</strong>, with a strong focus on security, automation, and scalable infrastructure.</p>
+
+<p>Currently a senior at the <strong>University of Nairobi</strong> pursuing a BSc in Computer Science, I'm actively building fintech and chess platforms tailored for African markets — blending real-time multiplayer logic, secure transactions, and mobile-first design.</p>
+
+<p>🔧 I specialize in:</p>
+<ul>
+  <li>Modular backend design with CI/CD workflows</li>
+  <li>Secure user management and privilege separation</li>
+  <li>Infrastructure automation and volume provisioning</li>
+  <li>Frontend prototyping with React, Tailwind, and React Native</li>
+</ul>
+
+<p>🚀 Recent highlights:</p>
+<ul>
+  <li>Provisioned Dockerized PostgreSQL with secure user setup</li>
+  <li>Integrated Redis for online user tracking</li>
+  <li>Versioned multi-repo workflows with semantic Git tagging</li>
+  <li>Tested multiplayer chess logic using Socket.IO</li>
+</ul>
+
+<p>🎯 I'm currently exploring:</p>
+<ul>
+  <li>Rust for high-performance web services</li>
+  <li>Electron for cross-platform desktop apps</li>
+  <li>Absa Bank APIs for fintech integration</li>
+</ul>
+
+<p>👯 I’m open to collaborating on impactful tech projects, especially those that empower local communities or push the boundaries of real-time infrastructure.</p>
+
+<p>🧠 Outside of code, I’m into tech-savvy comedy series, founder stories, and refining professional communication for clarity and mutual respect.</p>
+
+<p>Let’s build something meaningful.</p>
 
 
 ## 🌐 Socials:
