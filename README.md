@@ -6,8 +6,6 @@
 
 <p>🎮 Game dev has always been a quiet dream — now I’m making space for it. I’m learning <strong>Rust</strong> for performance-driven game engines and experimenting with <strong>Python</strong> for playful prototypes. I believe games can be more than entertainment — they can be stories, communities, and tools for change.</p>
 
-<p>🙏 I’m also passionate about starting a <strong>faith-driven tech community</strong> in my hometown — a space where church friends can explore code, creativity, and purpose. Tech isn’t just about innovation; it’s about impact, and I want to build bridges where none exist.</p>
-
 <p>🔧 I specialize in:</p>
 <ul>
   <li>Modular backend architecture with CI/CD workflows</li>
