@@ -1,12 +1,16 @@
 <h1>💫 About Me</h1>
 
-<p>Hey there! I'm <strong>John Okello</strong>, a full-stack engineer and aspiring entrepreneur based in Nairobi. I architect production-grade backends using <strong>Docker</strong>, <strong>PostgreSQL</strong>, and <strong>FastAPI</strong>, with a strong focus on security, automation, and scalable infrastructure.</p>
+<p>Hey there! I'm <strong>John Okello</strong>, a full-stack engineer, poetic builder, and aspiring founder based in Nairobi. I craft scalable backends with <strong>Docker</strong>, <strong>PostgreSQL</strong>, and <strong>FastAPI</strong>, and prototype expressive frontends using <strong>Next.js</strong>, <strong>React</strong>, and <strong>TypeScript</strong>.</p>
 
-<p>Currently a senior at the <strong>University of Nairobi</strong> pursuing a BSc in Computer Science, I'm actively building fintech and chess platforms tailored for African markets — blending real-time multiplayer logic, secure transactions, and mobile-first design.</p>
+<p>Currently a senior at the <strong>University of Nairobi</strong> (Computer Science), I’m building fintech and chess platforms tailored for African markets — blending real-time multiplayer logic, secure transactions, and mobile-first design. I’ve recently added <strong>Node.js + Express</strong> to my backend toolkit, expanding my reach across stacks and ecosystems.</p>
+
+<p>🎮 Game dev has always been a quiet dream — now I’m making space for it. I’m learning <strong>Rust</strong> for performance-driven game engines and experimenting with <strong>Python</strong> for playful prototypes. I believe games can be more than entertainment — they can be stories, communities, and tools for change.</p>
+
+<p>🙏 I’m also passionate about starting a <strong>faith-driven tech community</strong> in my hometown — a space where church friends can explore code, creativity, and purpose. Tech isn’t just about innovation; it’s about impact, and I want to build bridges where none exist.</p>
 
 <p>🔧 I specialize in:</p>
 <ul>
-  <li>Modular backend design with CI/CD workflows</li>
+  <li>Modular backend architecture with CI/CD workflows</li>
   <li>Secure user management and privilege separation</li>
   <li>Infrastructure automation and volume provisioning</li>
   <li>Frontend prototyping with React, Tailwind, and React Native</li>
@@ -18,20 +22,23 @@
   <li>Integrated Redis for online user tracking</li>
   <li>Versioned multi-repo workflows with semantic Git tagging</li>
   <li>Tested multiplayer chess logic using Socket.IO</li>
+  <li>Explored Rust for game engine architecture and Python for 2D game logic</li>
 </ul>
 
 <p>🎯 I'm currently exploring:</p>
 <ul>
-  <li>Rust for high-performance web services</li>
-  <li>Electron for cross-platform desktop apps</li>
+  <li>Node.js + Express for backend flexibility</li>
+  <li>Rust for game dev and systems programming</li>
+  <li>Faith-tech community building and mentorship</li>
   <li>Absa Bank APIs for fintech integration</li>
 </ul>
 
-<p>👯 I’m open to collaborating on impactful tech projects, especially those that empower local communities or push the boundaries of real-time infrastructure.</p>
+<p>👯 I’m open to collaborating on impactful tech projects — especially those that empower local communities, explore game mechanics, or blend faith and innovation.</p>
 
-<p>🧠 Outside of code, I’m into tech-savvy comedy series, founder stories, and refining professional communication for clarity and mutual respect.</p>
+<p>🧠 Outside of code, I’m into tech-savvy comedy series, indie hacker stories, and refining professional communication for clarity and mutual respect.</p>
 
-<p>Let’s build something meaningful.</p>
+<p>Let’s build something meaningful — from localhost to legacy.</p>
+
 
 
 ## 🌐 Socials:
